@@ -1,0 +1,945 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"ba",
+				"backgroundImage"
+			],
+			[
+				"b",
+				"backgroundImage"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"notes",
+				"notesData"
+			],
+			[
+				"note",
+				"notesData"
+			],
+			[
+				"outline",
+				"outline"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"in",
+				"intervalHandle"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"start",
+				"startCountDown"
+			],
+			[
+				"input",
+				"inputMinutes"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"main",
+				"mainListItems"
+			],
+			[
+				"listIte",
+				"listItemTemplate"
+			],
+			[
+				"toDO",
+				"todoList"
+			],
+			[
+				"newLis",
+				"newListItem"
+			],
+			[
+				"newLi",
+				"newListItem"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"cl",
+				"cl	consolelog"
+			],
+			[
+				"clear",
+				"Clear"
+			],
+			[
+				"my",
+				"myList"
+			],
+			[
+				"out",
+				"outline-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"pading",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"load",
+				"loadingTemp"
+			],
+			[
+				"c",
+				"capitalize"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"order-",
+				"order-information"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"sli",
+				"slideToggle"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"argin",
+				"margin-bottom"
+			],
+			[
+				"sl",
+				"sliderToggle"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"sti",
+				"stickyToggle"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"a",
+				"default"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"dire",
+				"directory-search"
+			],
+			[
+				"pri",
+				"print-receipt"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"top",
+				"topAd"
+			],
+			[
+				"clo",
+				"closeTopAd"
+			],
+			[
+				"OrderHIstory",
+				"OrderHistory"
+			],
+			[
+				"Or",
+				"Order-Summary"
+			],
+			[
+				"ifr",
+				"iframesrc"
+			],
+			[
+				"if",
+				"iframesrc"
+			],
+			[
+				"order",
+				"Order-Summary"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ab",
+				"Aboutus"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 562,
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		},
+		{
+			"file": "public/css/main.css",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gist",
+				"Gist: Delete Gist"
+			],
+			[
+				"ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"create ",
+				"Gist: Create Public Gist"
+			],
+			[
+				"lint",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"raz",
+				"Set Syntax: Razor"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brianstory/Sites/projects/todo/splitter.html",
+		"/Users/brianstory/Sites/projects/todo/public/lib/splitter/splitter.js",
+		"/Users/brianstory/Sites/projects/todo/splitter.css",
+		"/Users/brianstory/Sites/projects/todo/search.html",
+		"/Users/brianstory/Downloads/Ex_Files_UaR_AngularJS/Exercise Files/02_02/start/angular/js/data.json",
+		"/Users/brianstory/Sites/projects/todo/public/css/main.css",
+		"/Users/brianstory/Downloads/EZLinks VPN - ProductiveEdge (1).pcf",
+		"/Users/brianstory/Sites/projects/todo/public/js/main.js",
+		"/Users/brianstory/Sites/projects/todo/htmllist.html",
+		"/Users/brianstory/Sites/projects/todo/public/js/timer.js",
+		"/Users/brianstory/Sites/projects/todo/data.html",
+		"/Users/brianstory/Sites/projects/todo/index.html",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/partner.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/page-specific.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Views/Search/Templates.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/CourseDetail/Index.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/modules.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Public/styles/IE8.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Public/styles/responsive.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/IE8.css",
+		"/Volumes/C/Code/Productive_Edge/layouts/pe/sublayouts/wrapper-home.ascx",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Search/SearchBar.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/modules/OpenSearch.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Views/Promo/Index.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Search/Templates.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Public/scripts/modules/OpenSearch.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/modules/Search/Views/ViewController.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/modules/Loading.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/IE9.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Card/CreditCardPartialGuest.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Public/scripts/modules/Loading.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Search/Filter.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/responsive.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Error/PortalNotAvailable.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Views/Shared/_Header.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Views/Confirmation/OrderSummaryPartial.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Shared/_Layout.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Public/styles/partner.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/print.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Views/Search/Views.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Search/Views.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Public/styles/page-specific.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Views/Confirmation/OrderSummaryPartial.cshtml",
+		"/Users/brianstory/Desktop/test.json",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/views/PlayerInfo.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/modules/Modal.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/views/AccountInformation.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/deals.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/modules/SearchBoxStateRegion.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel/Public/scripts/views/CourseDetail.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Views/Signin/Index.cshtml",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.CmsAdmin/Public/scripts/views/Portal/PortalForm.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.CmsAdmin/Public/scripts/controls/LocationSelect.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/scripts/main.js",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff.Mvc.Core/Public/styles/main.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Public/styles/IE8.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Public/styles/modules.css",
+		"/Volumes/C/Code/teeoff/trunk/src/EZLinks.TeeOff/Public/styles/responsive.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Search/Templates.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/IE9.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/responsive.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/main.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/IE8.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/modules.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Card/CreditCardPartialGuest.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/CourseDetail/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/main.js",
+		"/Users/brianstory/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/page-specific.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/Search/Views/CourseTeeTime.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/Search/Models/TeeTime.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/Search/Views/TimeRow.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Shared/_Layout.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Card/CreditCardSignInUser.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Shared/AlertMessagePartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Error/500_static.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Confirmation/OrderSummaryPartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Search/Views.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/Search/Views/TimeTable.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/Search/Views/Deal.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Shared/InfoMessagePartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Shared/_Header.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/optimized-ie8.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/deals.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/obj/Release/Package/PackageTmp/Public/styles/main.css",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/obj/Release/Package/PackageTmp/Views/Cart/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Cart/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Shared/_Footer.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/views/FAQ.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Account/CardGrid.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Card/CreditCardAddCard.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Shared/NewsLetter.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Account/ChangeEmailPartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Signin/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/SignIn.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Message/ContactUsThanks.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Signin/ForgotPasswordPartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/PrivacyPolicy/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/App.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/views/AboutUs.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.WhiteLabel/Views/Search/SearchBar.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/obj/Release/Package/PackageTmp/Public/scripts/modules/SearchApp.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Signin/SignInPartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Signin/RegisterPartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Signin/RegisterGuestPartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.WhiteLabel/Views/CourseDetail/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/styles/sprite.css",
+		"/Users/brianstory/Desktop/Teeoff Pass TflaC365",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/Gruntfile.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Cart/ViewCart.cshtml",
+		"/Volumes/C/Code/teeoff-nat/EZLinks.TeeOff/Public/styles/main.css",
+		"/Volumes/C/Code/teeoff-nat/EZLinks.TeeOff/Public/styles/responsive.css",
+		"/Volumes/C/Code/teeoff-nat/EZLinks.TeeOff/Public/styles/page-specific.css",
+		"/Volumes/C/Code/teeoff-nat/EZLinks.TeeOff/Views/Cart/ViewCart.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Account/PlayerInfo.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Confirmation/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/modules/AccountMenu.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Cart/ButtonCart.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Account/OrderHistory.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Account/Index.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/views/AccountInformation.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/scripts/views/CardBilling.js",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Account/ChangePasswordPartial.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Views/Shared/_AccountTabs.cshtml",
+		"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff/Public/html/deal_site_addtocart.html",
+		"/Volumes/C/Code/Teeoff-branch/src/EZLinks.TeeOff/Public/styles/sprite.css",
+		"/Volumes/C/Code/Teeoff-branch/src/EZLinks.TeeOff/Views/Shared/_Header.cshtml",
+		"/Volumes/C/Code/Teeoff-branch/src/EZLinks.TeeOff/Views/Shared/_Layout.cshtml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff,/Volumes/C/Code/teeoff/trunk,/Volumes/C/Code/teeoff/trunk/src/EZLinks.WhiteLabel",
+			"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff,/Volumes/C/Code/teeoff/trunk",
+			"/Volumes/C/Code/TeeOff-Trunk/trunk/src/EZLinks.TeeOff",
+			"",
+			"/Volumes/C 1/Code/TeeOff-Phase2/trunk/src/EZLinks.TeeOff/Views",
+			"/Volumes/C 1/Code/TeeOff-Phase2/trunk/src/EZLinks.TeeOff/Public",
+			"/Volumes/C/Code/TeeOff-Phase2/trunk/src/EZLinks.TeeOff",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Vpublic",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/public",
+			"/Volumes/C/Code/Tee-Off/src/EZLinks.TeeOff/Views/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ul",
+			"input",
+			"hsp",
+			"cls",
+			"hsplitter",
+			"h1",
+			"'",
+			"myNameSpace",
+			"author",
+			"$gamePLan",
+			"gamePLan",
+			"ul",
+			"h2",
+			"data",
+			"Data",
+			"data",
+			"test",
+			"array",
+			"$clear",
+			"$save",
+			"$todoList",
+			"toDoItem",
+			"h2",
+			"context=\"alert\"",
+			"PromoCodeAlertPlaceholder",
+			"#open",
+			"alert",
+			"search-results-header",
+			"wl-filterBackground",
+			"search-bar",
+			"sticky-wrapper",
+			"undefined-sticky-wrapper",
+			"search-bar",
+			"sticky-wrapper",
+			"wl-loading",
+			"loading-spinner",
+			".deal-view .deal-location",
+			"deal-location",
+			"PortalNotAvailable",
+			"open-search",
+			"isSticky",
+			"class=\"spinner\"",
+			"tokenex_submit medium button button-orange-style radius",
+			"120",
+			"cardForm",
+			"main",
+			"SiteMapPath",
+			"photoslider",
+			"(/)",
+			"shortdate",
+			"sortBy",
+			".filter",
+			"search-results-header",
+			"amenities",
+			"calender-icon",
+			"#date",
+			"date",
+			"\");\n",
+			"Please, select state",
+			"teeoff-deals",
+			"deals",
+			"sortby",
+			"small-spinner",
+			"small-spin",
+			"open-s",
+			"call",
+			"price",
+			"back-to-top",
+			"back-to-top\n",
+			"back to top",
+			"BackToTop",
+			"table",
+			".teetime-tab",
+			"diable",
+			"tokenex_submit medium",
+			"button-orange-style radius caps-button",
+			"load",
+			"ui-icon-alert",
+			"cart-alert-placeholder",
+			"booked",
+			"	\n",
+			"teetime-table-booked",
+			"shortdate",
+			"725",
+			"search",
+			"ToggleTable",
+			"teetime-view",
+			"ResultArea",
+			"id=\"teetime-view\"",
+			"teetime-view",
+			"forTemplate",
+			"dregularPrice",
+			"button-grey-style",
+			".social",
+			"ui-state-highlight ui-corner-all",
+			"ui-icon ui-icon-info",
+			".ui-corner-all",
+			".ui-corcer-all",
+			"#Billing",
+			"role=main",
+			" Your credit card has been declined, or could not be processed at this time.\n        ",
+			"large-12 align-right process-order",
+			"Agree to Terms and Conditions",
+			"main-logo-deals",
+			"500",
+			"billing",
+			"select-date-input",
+			"768",
+			".filter .course-names",
+			"#f06530",
+			"tabindex=\"120\"",
+			"tab-index=\"120\"",
+			"signinpanel",
+			"isOpen",
+			"amenities-section",
+			"Course Amenities",
+			"ui",
+			"ui-corner-all",
+			":hover",
+			".active",
+			"Enter your email",
+			"playDate",
+			"date",
+			".slider(",
+			"date",
+			"SelectDate",
+			"AccountMobileMenu",
+			"searchNearbyTeaTimes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nineHole-icon"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/css/main.css",
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"spli",
+				"splitter.css"
+			],
+			[
+				"splitt",
+				"public/lib/splitter/splitter.js"
+			],
+			[
+				"split",
+				"public/lib/splitter/splitter.js"
+			],
+			[
+				"main.js",
+				"public/js/main.js"
+			],
+			[
+				"main",
+				"public/css/main.css"
+			],
+			[
+				"templates",
+				"EZLinks.TeeOff/Views/Search/Templates.cshtml"
+			],
+			[
+				"templ",
+				"EZLinks.WhiteLabel/Views/Search/Templates.cshtml"
+			],
+			[
+				"templa",
+				"EZLinks.TeeOff/Views/Search/Templates.cshtml"
+			],
+			[
+				"_lay",
+				"Views/Shared/_Layout.cshtml"
+			],
+			[
+				"main.j",
+				"Public/scripts/main.js"
+			],
+			[
+				"he",
+				"Views/Shared/_Header.cshtml"
+			],
+			[
+				"signin",
+				"Views/Signin/SignInPartial.cshtml"
+			],
+			[
+				"register",
+				"Views/Signin/RegisterPartial.cshtml"
+			],
+			[
+				"header",
+				"Views/Shared/_Header.cshtml"
+			],
+			[
+				"sprite",
+				"EZLinks.TeeOff/Public/styles/sprite.css"
+			],
+			[
+				"respon",
+				"Public/styles/responsive.css"
+			],
+			[
+				"page",
+				"Public/styles/page-specific.css"
+			],
+			[
+				"app.js",
+				"Public/scripts/modules/App.js"
+			],
+			[
+				"promo",
+				"Views/Promo/Index.cshtml"
+			],
+			[
+				"cssmodue",
+				"Public/styles/modules.css"
+			],
+			[
+				"temp",
+				"Views/Search/Templates.cshtml"
+			],
+			[
+				"appsea",
+				"obj/Release/Package/PackageTmp/Public/scripts/modules/SearchApp.js"
+			],
+			[
+				"layout",
+				"Views/Shared/_Layout.cshtml"
+			],
+			[
+				"lay",
+				"Views/Shared/_Layout.cshtml"
+			],
+			[
+				"homep",
+				"Public/scripts/views/Homepage.js"
+			],
+			[
+				"home",
+				"Views/Home/Index.cshtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/brianstory/Desktop/Projects/todo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 132.0,
+	"status_bar_visible": true
+}
