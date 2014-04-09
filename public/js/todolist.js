@@ -3,21 +3,22 @@ $(document).ready(function(){
   // Get Data
   var array = JSON.parse(localStorage.getItem('listData')) || [];
 
-  if (array == '') {
+  if (array.length == 0) {
     console.log('none');
-    $listData.append('<li></li>')
-  };
+    $listData.append('<li></li>');
+  }
+
   for (var i = 0; i < array.length; i++) {
-    $listData.append('<li>' + array[i] + '</li>')
-  };
+    $listData.append('<li>' + array[i] + '</li>');
+  }
 
   // store data
   $listData.on('blur paste input', function() {
     var array = [];
     $listData.find('li').each(function() {
-      array.push($(this).text())
-      localStorage.setItem('listData', JSON.stringify(array))
-    })
+      array.push($(this).text());
+      localStorage.setItem('listData', JSON.stringify(array));
+    });
 
   });
 
