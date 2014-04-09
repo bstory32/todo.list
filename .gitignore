@@ -1,0 +1,15 @@
+# Exclude OS X metadata files
+.DS_Store
+
+# Exclude ruby stuff
+.rvmrc
+.bundle/
+vendor/bundle
+
+# Exclude text editor stuff
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+*~
+*.bak
